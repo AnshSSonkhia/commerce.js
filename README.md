@@ -83,5 +83,5 @@ to watch for changed and re-run the tests automatically.
 
 ### Code style
 
-We use the Airbnb JavaScript style guide, and Prettier as our linting tool. To lint your code, use `npm run lint`
+We use the Airbnb JavaScript style guide, and Prettier as our linting tool. To lint your code use `npm run lint`
 or `npm run lint:fix` to automatically fix violations.
